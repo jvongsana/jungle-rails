@@ -2,11 +2,11 @@
   <ul class="list-group">
     <li class="list-group-item">
       <span class="badge"><%= @num_of_products%></span>
-      <a href="/admin/products">Products</a>
+      <%= link_to "Products", :root %>
     </li>
     <li class="list-group-item">
       <span class="badge"><%= @num_of_categories%></span>
-      <a href="/categories">Catgories</a>
+      <%= link_to "Categories", :category %>
     </li>
   </ul>
 </section>
