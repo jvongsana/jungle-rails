@@ -1,5 +1,4 @@
 class UsersController < ApplicationController
-  # has_secure_password :password, validation:true
 
   def new
   end
