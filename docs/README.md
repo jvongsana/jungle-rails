@@ -42,3 +42,8 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 
 
 ## Final Project
+
+![Home page](https://github.com/jvongsana/jungle-rails/blob/master/docs/home.png "Home page")
+![Product Info](https://github.com/jvongsana/jungle-rails/blob/master/docs/product_info.png "Product Info")
+![My Cart](https://github.com/jvongsana/jungle-rails/blob/master/docs/cart.png "My Cart with items added")
+![Order Confirmation](https://github.com/jvongsana/jungle-rails/blob/master/docs/ord_confirmation.png "Order Confirmation")
